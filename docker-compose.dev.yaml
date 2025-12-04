@@ -1,0 +1,7 @@
+services:
+  api:
+    build: .
+    environment:
+      SPRING_PROFILES_ACTIVE: neon
+    ports:
+      - "8080:8080"
