@@ -1,0 +1,4 @@
+com\hellin\stranger\model\Character.class
+com\hellin\stranger\controller\CharacterController.class
+com\hellin\stranger\StrangerApplication.class
+com\hellin\stranger\repository\CharacterRepository.class
